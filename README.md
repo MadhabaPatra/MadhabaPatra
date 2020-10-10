@@ -17,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+![Madhaba Patra's Github Stats](https://github-readme-stats.vercel.app/api?username=MadhabaPatra&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
