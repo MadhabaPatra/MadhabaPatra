@@ -1,6 +1,3 @@
-
-<a target="_blank" href="https://MadhabaPatra.github.io"><img  align="left" src="https://user-images.githubusercontent.com/42464927/95305388-c0297580-083a-11eb-902c-3c956fa394af.gif"></a>
-
 ### Hi there 👋
 <!--
 **MadhabaPatra/MadhabaPatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
