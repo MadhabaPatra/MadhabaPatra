@@ -1,19 +1,25 @@
-### Hi there 👋
-<!--
-**MadhabaPatra/MadhabaPatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Madhaba Patra! 👋
 
-Here are some ideas to get you started:
+#### A passionate full stack developer who loves solving problems through code.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhabapatra&label=Profile%20views&color=0e75b6&style=flat" alt="madhabapatra" /> </p>
 
+<p align="left"> <a href="https://twitter.com/GMadhabananda" target="blank"><img src="https://img.shields.io/twitter/follow/GMadhabananda?logo=twitter&style=for-the-badge" alt="siddhigate" /></a> </p>
 
-![Madhaba Patra's Github Stats](https://github-readme-stats.vercel.app/api?username=MadhabaPatra&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="left"> <a href="https://www.linkedin.com/in/gmadhabanandapatra" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gmadhabanandapatra" /></a> </p>
+
+<p align="left"> <a href="https://madhabapatra.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge" alt="gmadhabanandapatra" /></a> </p>
+
+<a href="https://madhabapatra.com" target="blank"><img src="https://www.madhabapatra.com/_next/image?url=%2Fstatic%2Fimages%2Fmadhaba-spreading-hands.jpg&w=828&q=75" alt="gmadhabanandapatra" /></a>
+
+- 🔭 I’m currently working at [Param.ai](https://param.ai)
+
+- 📝 I write articles on [https://blog.madhabapatra.com](https://blog.madhabapatra.com)
+
+- 💬 Ask me about **JavaScript,React.js, Node.js**
+
+- 📫 How to reach me **madhabapatra@gmail.com**
+
+![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
