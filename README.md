@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://madhabapatra.com" target="blank"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge" alt="gmadhabanandapatra" /></a> </p>
 
-<a href="https://madhabapatra.com" target="blank"><img src="https://www.madhabapatra.com/_next/image?url=%2Fstatic%2Fimages%2Fmadhaba-spreading-hands.jpg&w=828&q=75" alt="gmadhabanandapatra" /></a>
 
 - 🔭 I’m currently working at [Param.ai](https://param.ai)
 
