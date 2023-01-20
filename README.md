@@ -21,4 +21,13 @@
 
 ![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadhabaPatra&theme=dark)
+
+### So far 👀
+
+![](https://github-profile-trophy.vercel.app/?username=MadhabaPatra&theme=juicyfresh&no-bg=tru)
+
+### Activities [Last 30 days] 🚩
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=MadhabaPatra&bg_color=000000&color=3178C6&line=FA8B00&point=403d3d&area=true&hide_border=true)
 
