@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript,React.js, Node.js**
 
-- 📫 How to reach me **madhabapatra@gmail.com**
+- 📫 How to reach me **hi@madhabapatra.com**
 
 ![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MadhabaPatra/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
